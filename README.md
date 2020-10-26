@@ -1,13 +1,5 @@
 # Form
 
-<p align="center">
-  <a href="#-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-status">Status</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-author">Author</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-donation">Donation</a>
-</p>
-
 
 <p align="center">
  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/alqlima/formulario" />
@@ -17,6 +9,7 @@
  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/alqlima/formulario" />
  <img alt="Github License" src="https://img.shields.io/github/license/alqlima/formulario" />
 </p>
+
 
 ## 💻 About the project
 
@@ -29,16 +22,18 @@
    🚧 Form 🚀 Under construction... 🚧
  </h4>
  
-## Author
+## ✍🏻Author
 [André Queiroz](https://www.linkedin.com/in/andré-queiroz-b8805069/)
 
-## License
+## 📝License
 [MIT](https://github.com/alqlima/to-do/blob/master/LICENSE)
 
-## Donation
+## 🤑Donation
 
 Did you like the project? Want more? Help with a donation, even a coffee is valid
 
 Gostou do preojeto? Quer mais? Ajude com uma doação, até um café é válido =)
 
 [![paypal](https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BB4E5XX7WQBNA)
+
+<p align="center">Desenvolvido com ❤️ por André Queiroz</p>
